@@ -14,17 +14,26 @@ Hooks.once("init", () => {
     icon: "",
   };
 
-  CONFIG.DND5E.skills.mec = {
-    label: "Mechanical Engineering",
+  CONFIG.DND5E.skills.hrd = {
+    label: "Hardware",
     ability: "int",
-    fullKey: "mechanical engineering",
+    fullKey: "hardware",
     icon: "",
   };
 
   CONFIG.DND5E.skills.sft = {
-    label: "Software Engineering",
+    label: "Software",
     ability: "int",
-    fullKey: "software engineering",
+    fullKey: "software",
     icon: "",
   };
+
+  CONFIG.DND5E.skills.cul = {
+    label: "Culture",
+    ability: "wis",
+    fullKey: "culture",
+    icon: "",
+  };
+
+  delete CONFIG.DND5E.skills.rel;
 });
