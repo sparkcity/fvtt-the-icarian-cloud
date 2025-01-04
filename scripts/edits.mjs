@@ -1,6 +1,6 @@
 Hooks.once("init", () => {
   //adding new skills
-  CONFIG.DND5E.skills.arc = {
+  CONFIG.DND5E.skills.psi = {
     label: "Psionics",
     ability: "int",
     fullKey: "psionics",
@@ -8,9 +8,9 @@ Hooks.once("init", () => {
   };
 
   CONFIG.DND5E.skills.veh = {
-    label: "Vehicle Handling",
+    label: "Piloting",
     ability: "dex",
-    fullKey: "vehicle handling",
+    fullKey: "piloting",
     icon: "",
   };
 
@@ -35,5 +35,7 @@ Hooks.once("init", () => {
     icon: "",
   };
 
+  //remove arcana and religion skills
   delete CONFIG.DND5E.skills.rel;
+  delete CONFIG.DND5E.skills.arc;
 });
