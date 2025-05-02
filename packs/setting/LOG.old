@@ -1,3 +1,5 @@
-2024/12/21-23:35:31.313 7214 Recovering log #8
-2024/12/21-23:35:31.317 7214 Delete type=0 #8
-2024/12/21-23:35:31.317 7214 Delete type=3 #7
+2025/05/01-20:12:16.898 b638 Log #12: 0 ops saved to Table #13 OK
+2025/05/01-20:12:16.899 b638 Archiving C:\Users\starr\AppData\Local\FoundryVTT\Data\modules\fvtt-the-icarian-cloud\packs\setting/000012.log: OK
+2025/05/01-20:12:16.902 b638 Table #5: 1 entries OK
+2025/05/01-20:12:16.904 b638 Archiving C:\Users\starr\AppData\Local\FoundryVTT\Data\modules\fvtt-the-icarian-cloud\packs\setting/MANIFEST-000011: OK
+2025/05/01-20:12:16.906 b638 **** Repaired leveldb C:\Users\starr\AppData\Local\FoundryVTT\Data\modules\fvtt-the-icarian-cloud\packs\setting; recovered 1 files; 489 bytes. Some data may have been lost. ****

@@ -1,3 +1,4 @@
-2024/12/21-23:35:31.280 2eb8 Recovering log #7
-2024/12/21-23:35:31.283 2eb8 Delete type=0 #7
-2024/12/21-23:35:31.283 2eb8 Delete type=3 #6
+2025/05/01-20:12:16.870 b658 Log #11: 0 ops saved to Table #12 OK
+2025/05/01-20:12:16.870 b658 Archiving C:\Users\starr\AppData\Local\FoundryVTT\Data\modules\fvtt-the-icarian-cloud\packs\psionics/000011.log: OK
+2025/05/01-20:12:16.872 b658 Archiving C:\Users\starr\AppData\Local\FoundryVTT\Data\modules\fvtt-the-icarian-cloud\packs\psionics/MANIFEST-000010: OK
+2025/05/01-20:12:16.873 b658 **** Repaired leveldb C:\Users\starr\AppData\Local\FoundryVTT\Data\modules\fvtt-the-icarian-cloud\packs\psionics; recovered 0 files; 0 bytes. Some data may have been lost. ****
