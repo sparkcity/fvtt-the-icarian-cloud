@@ -1,4 +1,1 @@
-2025/05/01-20:12:16.819 b658 Log #11: 0 ops saved to Table #12 OK
-2025/05/01-20:12:16.819 b658 Archiving C:\Users\starr\AppData\Local\FoundryVTT\Data\modules\fvtt-the-icarian-cloud\packs\species/000011.log: OK
-2025/05/01-20:12:16.821 b658 Archiving C:\Users\starr\AppData\Local\FoundryVTT\Data\modules\fvtt-the-icarian-cloud\packs\species/MANIFEST-000010: OK
-2025/05/01-20:12:16.822 b658 **** Repaired leveldb C:\Users\starr\AppData\Local\FoundryVTT\Data\modules\fvtt-the-icarian-cloud\packs\species; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2025/05/01-20:12:16.827 b658 Delete type=3 #1

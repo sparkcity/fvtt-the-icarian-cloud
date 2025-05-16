@@ -23,7 +23,7 @@
 					{
 						"minimum":"5.0.0",
 						"maximum": "5.1.99",
-						"verified": "5.0.1"
+						"verified": "5.0.3"
 					}
 				]
 			}
@@ -91,9 +91,9 @@
           "flags": {}
         },
         {
-          "name": "psionics",
-          "label": "Psionics",
-          "path": "packs/psionics",
+          "name": "abilities",
+          "label": "abilities",
+          "path": "packs/abilities",
           "type": "Item",
           "ownership": {
             "PLAYER": "OBSERVER",
@@ -164,7 +164,7 @@
             "classes",
             "subclasses",
             "items",
-            "psionics",
+            "abilities",
             "creatures"
           ]
         }
