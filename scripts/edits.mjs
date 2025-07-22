@@ -1,24 +1,31 @@
 Hooks.once("init", () => {
   //adding new skills
 
-  CONFIG.DND5E.skills.veh = {
+  CONFIG.DND5E.skills.pil = {
     label: "Piloting",
     ability: "dex",
     fullKey: "piloting",
     icon: "",
   };
 
-  CONFIG.DND5E.skills.hrd = {
-    label: "Hardware",
+  CONFIG.DND5E.skills.eng = {
+    label: "Engineering",
     ability: "int",
-    fullKey: "hardware",
+    fullKey: "engineering",
     icon: "",
   };
 
-  CONFIG.DND5E.skills.sft = {
-    label: "Software",
+  CONFIG.DND5E.skills.elc = {
+    label: "Electronics",
     ability: "int",
-    fullKey: "software",
+    fullKey: "electronics",
+    icon: "",
+  };
+
+    CONFIG.DND5E.skills.nat = {
+    label: "Science",
+    ability: "int",
+    fullKey: "science",
     icon: "",
   };
 
