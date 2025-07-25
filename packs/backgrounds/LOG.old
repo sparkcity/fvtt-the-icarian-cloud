@@ -1,4 +1,1 @@
-2025/07/21-21:30:50.116 2a84 Log #16: 0 ops saved to Table #17 OK
-2025/07/21-21:30:50.117 2a84 Archiving C:\Users\starr\AppData\Local\FoundryVTT\Data\modules\fvtt-the-icarian-cloud\packs\backgrounds/000016.log: OK
-2025/07/21-21:30:50.120 2a84 Archiving C:\Users\starr\AppData\Local\FoundryVTT\Data\modules\fvtt-the-icarian-cloud\packs\backgrounds/MANIFEST-000015: OK
-2025/07/21-21:30:50.122 2a84 **** Repaired leveldb C:\Users\starr\AppData\Local\FoundryVTT\Data\modules\fvtt-the-icarian-cloud\packs\backgrounds; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2025/07/21-21:30:50.128 2a84 Delete type=3 #1
